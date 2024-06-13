@@ -1,0 +1,19 @@
+body {
+    background-color: #1b2838;
+    color: white;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.MuiContainer-root {
+    padding-top: 20px;
+}
+
+.MuiCard-root {
+    background-color: #2a475e;
+    color: white;
+}
+
+.MuiTypography-h6 {
+    font-weight: bold;
+}
